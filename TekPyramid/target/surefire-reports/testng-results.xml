@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-26T10:59:19 IST" name="Surefire suite" finished-at="2024-04-26T10:59:36 IST" duration-ms="16842">
+    <groups>
+    </groups>
+    <test started-at="2024-04-26T10:59:19 IST" name="Surefire test" finished-at="2024-04-26T10:59:36 IST" duration-ms="16842">
+      <class name="DataDriven.ReadRuntimeMaven">
+        <test-method signature="createOrgtest()[pri:0, instance:DataDriven.ReadRuntimeMaven@186f8716]" started-at="2024-04-26T10:59:19 IST" name="createOrgtest" finished-at="2024-04-26T10:59:36 IST" duration-ms="16795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgtest -->
+      </class> <!-- DataDriven.ReadRuntimeMaven -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
